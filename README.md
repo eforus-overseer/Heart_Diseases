@@ -1,4 +1,4 @@
-# Heart_Diseases
+# Heart_Diseases_ML
 Predicting patients heart problems using various ML algorithms 
 
 
