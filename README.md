@@ -1,6 +1,8 @@
 # Heart_Diseases_ML
 Predicting patients heart problems using various ML algorithms 
 
+![heart_probs_illustration](https://github.com/efipaka/Heart_Diseases/blob/master/disease-infographics-symptoms-heart-disease-acute-pain-p-possible-attack-detail-man-75832861.jpg)
+
 
 #Context
 This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. In particular, the Cleveland database is the only one that has been used by ML researchers to
