@@ -44,3 +44,11 @@ David W. Aha (aha '@' ics.uci.edu) (714) 856-8779
 #Inspiration
 Experiments with the Cleveland database have concentrated on simply attempting to distinguish presence (values 1,2,3,4) from absence (value 0).
 See if you can find any other trends in heart data to predict certain cardiovascular events or find any clear indications of heart health.
+
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/heart_diseases/) — Try an interactive explanation and inspect the original source and results. Browser teaching examples are distinguished from trained models.
+<!-- demo-lab:end -->
