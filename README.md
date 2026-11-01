@@ -55,8 +55,8 @@ See if you can find any other trends in heart data to predict certain cardiovasc
 
 
 <!-- codex-pixel-art -->
-## Pixel art
+## Project visual
 
-![Pixel art for Heart_Diseases](assets/pixel-art.svg)
+![Pixel-art cover for Heart_Diseases](assets/project-cover.png)
 
-A small visual signature for this repository.
+<sub>Pixel-art adaptation of [AV valves human heart](https://commons.wikimedia.org/wiki/File:AV_valves_human_heart.png) by RWhitwam, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: Wikimedia Commons.</sub>
