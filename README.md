@@ -52,3 +52,11 @@ See if you can find any other trends in heart data to predict certain cardiovasc
 
 [Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/heart_diseases/) — Try an interactive explanation and inspect the original source and results. Browser teaching examples are distinguished from trained models.
 <!-- demo-lab:end -->
+
+
+<!-- codex-pixel-art -->
+## Pixel art
+
+![Pixel art for Heart_Diseases](assets/pixel-art.svg)
+
+A small visual signature for this repository.
