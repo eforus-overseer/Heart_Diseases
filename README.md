@@ -59,4 +59,4 @@ See if you can find any other trends in heart data to predict certain cardiovasc
 
 ![Pixel-art cover for Heart_Diseases](assets/project-cover.png)
 
-<sub>Pixel-art adaptation of [AV valves human heart](https://commons.wikimedia.org/wiki/File:AV_valves_human_heart.png) by RWhitwam, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: Wikimedia Commons.</sub>
+<sub>Pixel-art adaptation of [OpenMoji heart](https://github.com/hfg-gmuend/openmoji/blob/master/color/618x618/2764.png) by OpenMoji contributors, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source: OpenMoji.</sub>
